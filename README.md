@@ -1,32 +1,9 @@
-<p align="center">
-<img src="./giphy (1).webp"/>
-<a align="center">
+# Hi there :wave:, LiannGT here.
+- I'm Competitive Programmer and Web Developer, i also code in Python,c++
 
-# Github Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/?username=HookORJulian&theme=tokyonight">
-<div align="center">
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HookORJulian&theme=tokyonight">
-<div align="center">
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin?username=HookORJulian8&repo=save-dat-stealer&theme=tokyonight">
-<div align="center">
-  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin?username=HookORJulian&repo=GTPS-STATUS-BOT&theme=tokyonight">
-<div align="center">
-
-# My Status
-
-- 😢 Work in 3 Bot Currently.
-- 😲 Growtopia Servers Devlopers
-- 😷 Gimme a [Support](https://saweria.co/HookGTPS)
-- 😘 Get [me](https://github.com/HookORJulian) on [Youtube](https://www.youtube.com/channel/UC9rXiRpp6nLOL1LzevNlpKg)
-
-<p align="center">
-<img src="https://discord.c99.nl/widget/theme-3/846252414415142962.png">
-<div align="center">
+# About Me
+I am a student who really likes computer science and I am currently working in a private company as a web developer. 
+I very often use HTML, CSS, C++ (GTPS), C, Python, and Ruby programming languages. I also like playing games like growtopia and watching gta v roleplay. 
+I also really like to build new ideas that are productive and creative
+ - I'm currently Learning: `C++`, `Java`
+ - I am interested in `Web Design`
