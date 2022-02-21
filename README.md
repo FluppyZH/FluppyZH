@@ -1,16 +1,32 @@
-### Hi there 👋
+<p align="center">
+<img src="./giphy (1).webp"/>
+<a align="center">
 
-<!--
-**LiannnGT/LiannnGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Github Stats
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/?username=HookORJulian&theme=tokyonight">
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HookORJulian&theme=tokyonight">
+<div align="center">
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=HookORJulian8&repo=save-dat-stealer&theme=tokyonight">
+<div align="center">
+  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=HookORJulian&repo=GTPS-STATUS-BOT&theme=tokyonight">
+<div align="center">
+
+# My Status
+
+- 😢 Work in 3 Bot Currently.
+- 😲 Growtopia Servers Devlopers
+- 😷 Gimme a [Support](https://saweria.co/HookGTPS)
+- 😘 Get [me](https://github.com/HookORJulian) on [Youtube](https://www.youtube.com/channel/UC9rXiRpp6nLOL1LzevNlpKg)
+
+<p align="center">
+<img src="https://discord.c99.nl/widget/theme-3/846252414415142962.png">
+<div align="center">
